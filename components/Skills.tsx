@@ -49,10 +49,11 @@ function Skills({}: Props) {
 
       <div className="grid grid-cols-4 gap-5">
         {sk?.slice(0, sk.length / 2).map((skill, i) => (
-          <Skill url={skll.url[i]} per={skll.per[i]} />
+          <Skill key={i} url={skll.url[i]} per={skll.per[i]} />
         ))}
         {sk?.slice(sk.length / 2, sk.length).map((skill, i) => (
           <Skill
+            key={i}
             url={skll.url[i + sk.length / 2]}
             per={skll.per[i + sk.length / 2]}
             directionLeft

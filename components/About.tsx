@@ -53,18 +53,19 @@ export default function About({}: Props) {
           cornerstone of my journey, propelling me to continually seek new
           challenges and expand my horizons. I am not one to merely dwell on
           theories; instead, I thrive on turning knowledge into action. Learning
-          is not just about accumulating information for me—it's about applying
-          that knowledge to create positive change. As a proactive problem
-          solver, I approach challenges with a strategic mindset, breaking down
-          complex issues into manageable components and developing innovative
-          solutions. My strength lies in thinking outside the box.Taking risks
-          is an integral part of my approach to life and work. I understand that
-          calculated risks are essential for growth, and I am not afraid to step
-          outside my comfort zone to explore new opportunities.Overall, I am a
-          dynamic individual who thrives on challenges. My blend of a growth
-          mindset, proactive problem-solving, out-of-the-box thinking,
-          risk-taking, and tech-savviness positions me as someone who can make a
-          meaningful impact in any endeavor I undertake.
+          is not just about accumulating information for me—it&apos;s about
+          applying that knowledge to create positive change. As a proactive
+          problem solver, I approach challenges with a strategic mindset,
+          breaking down complex issues into manageable components and developing
+          innovative solutions. My strength lies in thinking outside the
+          box.Taking risks is an integral part of my approach to life and work.
+          I understand that calculated risks are essential for growth, and I am
+          not afraid to step outside my comfort zone to explore new
+          opportunities.Overall, I am a dynamic individual who thrives on
+          challenges. My blend of a growth mindset, proactive problem-solving,
+          out-of-the-box thinking, risk-taking, and tech-savviness positions me
+          as someone who can make a meaningful impact in any endeavor I
+          undertake.
         </p>
       </motion.div>
     </div>
