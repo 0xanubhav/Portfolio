@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import React from "react";
 type Props = {
   directionLeft?: boolean;
-  url: String;
+  url: string;
   per: number;
 };
 
