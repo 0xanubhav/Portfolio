@@ -24,7 +24,7 @@ export default function About({}: Props) {
           x: 0,
         }}
         // viewport={{ once:true }}
-        src="https://firebasestorage.googleapis.com/v0/b/portfolio-fc5b1.appspot.com/o/WhatsApp%20Image%202024-01-09%20at%2018.52.42_bb278ae8.jpg?alt=media&token=0a01e956-1dd7-4f8a-a82d-5acaab8718e9"
+        src="https://firebasestorage.googleapis.com/v0/b/portfolio-fc5b1.appspot.com/o/WhatsApp%20Image%202024-01-09%20at%2018.52.39_ec1ef55f.jpg?alt=media&token=b5b2174f-c9f8-4c80-83c6-3ca5c7c45f90"
         className="-mb-20 md:mb-0 w-56 h-56 flex-shrink-0 rounded-full object-cover md:rounded-lg mid:w-56 mid:h-96 xl:w-[500px] xl:h-[600px]"
       />
       {/* image in about */}
