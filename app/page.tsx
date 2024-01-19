@@ -43,8 +43,8 @@ export default function Home() {
         <footer className="sticky bottom-5 w-full cursor-pointer">
           <div className="items-center flex justify-center">
             <img
-              className="rounded-full h-10 w-10 filter grayscale hover:grayscale-0 cursor-pointer"
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmT8-_QFjtTTrHmS998umeL1VGQmzPUfg8BrtDdS0CFQLfdUZJbjDHiR6VYx9_FFQvwXY&usqp=CAU"
+              className="rounded-full h-10 w-12 flex-shrink-0 filter grayscale hover:grayscale-0 cursor-pointer"
+              src="https://firebasestorage.googleapis.com/v0/b/portfolio-fc5b1.appspot.com/o/WhatsApp%20Image%202024-01-09%20at%2018.52.39_ec1ef55f.jpg?alt=media&token=b5b2174f-c9f8-4c80-83c6-3ca5c7c45f90"
               alt=""
             />
           </div>

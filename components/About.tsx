@@ -25,7 +25,7 @@ export default function About({}: Props) {
         }}
         // viewport={{ once:true }}
         src="https://firebasestorage.googleapis.com/v0/b/portfolio-fc5b1.appspot.com/o/WhatsApp%20Image%202024-01-09%20at%2018.52.39_ec1ef55f.jpg?alt=media&token=b5b2174f-c9f8-4c80-83c6-3ca5c7c45f90"
-        className="-mb-20 md:mb-0 w-56 h-56 flex-shrink-0 rounded-full object-cover md:rounded-lg mid:w-56 mid:h-96 xl:w-[500px] xl:h-[600px]"
+        className="-mb-20 md:mb-0 w-54 h-54 flex-shrink-0 rounded-full object-cover md:rounded-lg mid:w-56 mid:h-96 xl:w-[450px] xl:h-[550px]"
       />
       {/* image in about */}
 
@@ -47,25 +47,22 @@ export default function About({}: Props) {
           <span className="underline decoration-[#F7AB0A]/50">little</span>{" "}
           background
         </h4>
-        <p className=" md:text-lg lg:text-xl text-base px-10 sm:text-sm">
-          Hello there! I am a passionate individual with a relentless pursuit of
-          personal and professional growth.Embracing a growth mindset has been a
+        <p className=" md:text-md lg:text-lg text-base px-10 sm:text-sm">
+          Hello there! I am a passionate individual with a pursuit of personal
+          and professional growth.Embracing a growth mindset has been a
           cornerstone of my journey, propelling me to continually seek new
-          challenges and expand my horizons. I am not one to merely dwell on
-          theories; instead, I thrive on turning knowledge into action. Learning
-          is not just about accumulating information for me—it&apos;s about
-          applying that knowledge to create positive change. As a proactive
-          problem solver, I approach challenges with a strategic mindset,
-          breaking down complex issues into manageable components and developing
-          innovative solutions. My strength lies in thinking outside the
-          box.Taking risks is an integral part of my approach to life and work.
-          I understand that calculated risks are essential for growth, and I am
-          not afraid to step outside my comfort zone to explore new
-          opportunities.Overall, I am a dynamic individual who thrives on
-          challenges. My blend of a growth mindset, proactive problem-solving,
-          out-of-the-box thinking, risk-taking, and tech-savviness positions me
-          as someone who can make a meaningful impact in any endeavor I
-          undertake.
+          challenges and expand my horizons.I thrive on turning knowledge into
+          action. Learning is not just about accumulating information for
+          me—it&apos;s about applying that knowledge to create positive change.
+          As a proactive problem solver, I approach challenges with a strategic
+          mindset, breaking down complex issues into manageable components and
+          developing innovative solutions. I understand that calculated risks
+          are essential for growth, and I am not afraid to step outside my
+          comfort zone to explore new opportunities.Overall, I am a dynamic
+          individual who thrives on challenges. My blend of a growth mindset,
+          proactive problem-solving, out-of-the-box thinking, risk-taking, and
+          tech-savviness positions me as someone who can make a meaningful
+          impact in any endeavor I undertake.
         </p>
       </motion.div>
     </div>

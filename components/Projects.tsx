@@ -68,29 +68,16 @@ function Projects({}: Props) {
                 transition={{
                   duration: 1.2,
                 }}
-                className="font-semibold font-mono text-4xl"
+                className="font-semibold font-mono text-3xl"
               >
                 <span className="sm:text-md">
                   Project {i + 1} of {projects.length} : {proname[i]}
                 </span>
               </motion.h4>
 
-              <motion.p
-                initial={{
-                  y: 300,
-                  opacity: 0,
-                }}
-                whileInView={{
-                  y: 0,
-                  opacity: 1,
-                }}
-                transition={{
-                  duration: 1.2,
-                }}
-                className="text-lg text-center md:text-left "
-              >
-                {desc[i]}
-              </motion.p>
+              <p> {desc[i]}</p>
+               
+              
             </div>
           </div>
         ))}
