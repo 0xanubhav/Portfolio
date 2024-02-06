@@ -23,12 +23,12 @@ export default function Header({}: Props) {
         className="flex flex-row items-center"
       >
         <SocialIcon
-          url="https://leetcode.com"
+          url="https://leetcode.com/anubhav_bajpai/"
           fgColor="gray"
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://codechef.com"
+          url="https://www.codechef.com/users/anubhav_bajpai"
           fgColor="gray"
           bgColor="transparent"
         />
